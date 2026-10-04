@@ -1,0 +1,42 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Bench Press"
+    },
+    {
+      "id": 2,
+      "name": "Squat"
+    },
+    {
+      "id": 3,
+      "name": "Deadlift"
+    },
+    {
+      "id": 4,
+      "name": "Overhead Press"
+    },
+    {
+      "id": 5,
+      "name": "Barbell Row"
+    }
+  ],
+  "workouts": [
+    {
+      "id": 1791121322198,
+      "workout_date": "2026-10-04",
+      "notes": "",
+      "created_at": "2026-10-04T13:42:02.198Z",
+      "sets": [
+        {
+          "id": 1791121322199,
+          "exercise_id": 1,
+          "exercise": "Bench Press",
+          "set_number": 1,
+          "reps": 10,
+          "weight": 100
+        }
+      ]
+    }
+  ]
+}
